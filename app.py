@@ -35,7 +35,7 @@ if prompt := st.chat_input("How can I help you today?"):
     }
 
     data = {
-        "inputs": f"<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n{SYSTEM_PROMPT}<|eot_id|><|start_header_id|>user<|end_header_id|>\n{prompt}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n",
+        "inputs": f"{SYSTEM_PROMPT}\nUser: {prompt}\nAssistant:",
         "parameters": {"max_new_tokens": 500}
     }
 
