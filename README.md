@@ -8,8 +8,7 @@ This app provides supportive, helpful responses to your wellness-related questio
 
 ## 🚀 Demo
 
-> [Click here to try the app live on Streamlit Cloud](#)  
-> *(Insert your deployed app link here once you deploy it)*
+> [Click here to try the app live on Streamlit Cloud https://dnp6yjnok7vcgbyd2mashg.streamlit.app/](#)  
 
 ---
 
