@@ -8,7 +8,7 @@ This app provides supportive, helpful responses to your wellness-related questio
 
 ## 🚀 Demo
 
-> [https://dnp6yjnok7vcgbyd2mashg.streamlit.app/](#)  
+> [Click here to vist the AIBOT for wellness guidence.](https://dnp6yjnok7vcgbyd2mashg.streamlit.app/)  
 
 ---
 
