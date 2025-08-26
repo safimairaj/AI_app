@@ -8,7 +8,7 @@ st.set_page_config(page_title="WellnessGuide", layout="centered")
 st.title("🧘 WellnessGuide – Your AI Mental Wellness Assistant")
 
 # Get API token from secrets
-HF_API_TOKEN = st.secrets["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"]
+HF_API_TOKEN = st.secrets["HF_API_TOKEN"]
 MODEL_ID = "google/gemma-7b-it"
 
 # System prompt – how the assistant behaves
